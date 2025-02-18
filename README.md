@@ -13,6 +13,15 @@ This project is an advanced browser automation tool using Selenium and Tkinter w
 - **iOS-Like GUI:** The application features a modern, themed GUI using `ttkthemes` to provide a sleek user interface.
 - **Logging & Error Handling:** All automation actions are logged, and errors are displayed in a user-friendly way.
 
+
+## Project Images
+
+![APK GUI Image](./demo/apk_img.png)
+---
+![APP GUI Image](./demo/app.png)
+
+
+
 ## Installation
 ### Prerequisites
 Ensure you have Python installed along with the following dependencies:
@@ -26,8 +35,12 @@ You need to download the appropriate WebDriver for your browser (e.g., ChromeDri
 ## Usage
 1. Run the script using:
    ```sh
-   python script.py
+   python apk.py
    ```
+## Or
+```sh
+   python app.py
+```
 2. Enter URLs (one per line) in the text box.
 3. Configure the desired automation settings (tab count, scroll speed, clicks, proxy, etc.).
 4. Click "Start Automation" to begin.
