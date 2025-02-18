@@ -1,5 +1,10 @@
 # Advanced Browser Automation
 
+## Version 1.0
+### Author: Shiboshree Roy
+### Writer & Dev : Shiboshree Roy
+### Date: 18-02-25 
+
 ## Description
 This project is an advanced browser automation tool using Selenium and Tkinter with an iOS-like GUI design. It allows users to automate opening multiple browser tabs, perform scrolling actions, execute random clicks, and utilize proxy settings for anonymity.
 
